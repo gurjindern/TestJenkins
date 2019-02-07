@@ -8,7 +8,7 @@ public class TestJenkins{
 		
 		for(String arg: args){
 		
-			System.out.println("value for arg is....:"+arg+"  hahahahha");
+			System.out.println("value for arg is....:"+arg+"");
 		}
 
 
